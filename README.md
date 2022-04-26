@@ -1,5 +1,7 @@
 # simple-stock-price
 
+source: https://www.youtube.com/watch?v=JwSS70SZdyM&t=174s
+
 ## Installation
 ```sh
 pip3 install streamlit
