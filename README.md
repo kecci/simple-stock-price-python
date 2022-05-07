@@ -1,5 +1,7 @@
 # simple-stock-price
 
+![image](/assets/banner.png)
+
 source: https://www.youtube.com/watch?v=JwSS70SZdyM&t=174s
 ## Dependencies
 - import yfinance as yf
