@@ -24,7 +24,7 @@ streamlit hello
 
 ## Run Project
 ```sh
-streamlit myapp.py
+streamlit run myapp.py
 ```
 
 ## Deployment
